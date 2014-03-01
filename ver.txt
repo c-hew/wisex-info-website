@@ -1,0 +1,2 @@
+This identify the file version. It is made available to everyone on the web. Even the owner can see it and know immediately which version this website files he is using.
+Version: 0.0.1.pre-release-alpha
