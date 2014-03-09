@@ -1,9 +1,15 @@
 This identify the file version. It is made available to everyone on the web. Even the owner can see it and know immediately which version this website files he is using.
-Version: 0.0.1.pre-release-alpha 
+Version: 0.0.1.alpha 
 
+After the pre-release alpha version
+
+(VERSION 0.0.1.pre-release-alpha
 Updates applied:
 Fixed Facebook Comments system 0.0.1 patch 1 untested
 Performance 0.0.1 patch 1 untested
 Upgrade 0.0.1 patch 1 untested
 Service Pack 0.0.1 Patch 1 Untested
 Info Update 0.0.1 Patch 1 Partially Tested Major Pages Update
+Further info page updates Patches Tested
+Update to 0.0.1.alpha version.
+Update to remove all unnecessary files
