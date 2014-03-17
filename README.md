@@ -8,4 +8,4 @@ We will also update the user interface and to provide a secure and fast experien
 
 PERFORMANCE
 ====
-In all devices.
+In all devices geared towards to being the fastest on almost all machines hosting this site.
