@@ -4,7 +4,7 @@ Version: 0.0.2.beta
 After the pre-release alpha version
 0.0.2.beta
 SXC support release
-
+Security support patch for 0.0.2.beta version added
 
 (VERSION 0.0.1.pre-release-alpha
 Updates applied:
