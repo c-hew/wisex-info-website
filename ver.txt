@@ -5,6 +5,7 @@ After the pre-release alpha version
 
 (VERSION 0.0.1.pre-release-alpha
 Updates applied:
+Updated Album photos patch 1
 Fixed Facebook Comments system 0.0.1 patch 1 untested
 Performance 0.0.1 patch 1 untested
 Upgrade 0.0.1 patch 1 untested
